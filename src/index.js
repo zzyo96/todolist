@@ -5,7 +5,7 @@ import foo from './foo'
 function component() {
   const element = j('<div></div>');
 
-  element.html(_.join(['Hello','webpack'], ' '))
+  element.html(_.join(['Hi','webpack'], ' '))
 
   return element.get(0);
 }
