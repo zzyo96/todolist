@@ -40,8 +40,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="449">
+              <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -74,8 +74,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="870" />
-    <option name="y" value="35" />
+    <option name="x" value="886" />
+    <option name="y" value="77" />
     <option name="width" value="1060" />
     <option name="height" value="935" />
   </component>
@@ -90,6 +90,17 @@
             <path>
               <item name="todolist-zzyo" type="b2602c69:ProjectViewProjectNode" />
               <item name="todolist-zzyo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todolist-zzyo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todolist-zzyo" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todolist-zzyo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todolist-zzyo" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="todolist-zzyo" type="b2602c69:ProjectViewProjectNode" />
@@ -138,7 +149,7 @@
       <updated>1556611324968</updated>
       <workItem from="1556611326548" duration="2255000" />
       <workItem from="1556614148914" duration="2456000" />
-      <workItem from="1556623241313" duration="1292000" />
+      <workItem from="1556623241313" duration="1600000" />
     </task>
     <task id="LOCAL-00001" summary="添加foo.js  引入foo.js">
       <created>1556611531139</created>
@@ -158,10 +169,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6003000" />
+    <option name="totallyTimeSpent" value="6311000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="696" y="28" width="848" height="748" extended-state="0" />
+    <frame x="709" y="62" width="848" height="748" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="npm" order="0" side_tool="true" />
@@ -223,8 +234,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="449">
+          <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
         </state>
       </provider>
     </entry>
