@@ -6,6 +6,17 @@ import 'normalize.css'
 import './reset.css'
 import * as localStore from './localStore'
 
+var AV = require('leancloud-storage');
+
+var APP_ID = 'lzNJdaGM6sL7nczk8ECBBFdw-gzGzoHsz';
+var APP_KEY = 'EpWXxc5TtKBw4YCPuoiJOcu7';
+
+AV.init({
+  appId: APP_ID,
+  appKey: APP_KEY
+});
+
+
 class App extends Component {
   constructor(props){
     super(props)
