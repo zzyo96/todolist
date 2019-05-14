@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a726e3a-a5c3-49b7-97d2-9a9b8c23407e" name="Default Changelist" comment="解决webpack-dev-server的问题：用的太新了，webpack与webpack-dev-server不匹配导致的">
+    <list default="true" id="1a726e3a-a5c3-49b7-97d2-9a9b8c23407e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TodoInput.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/TodoInput.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leanCloud.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/leanCloud.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/dist/" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -16,23 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="70" column="29" selection-start-line="70" selection-start-column="29" selection-end-line="70" selection-end-column="29" />
+            <state relative-caret-position="201">
+              <caret line="108" column="23" selection-start-line="108" selection-start-column="23" selection-end-line="108" selection-end-column="23" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -41,46 +32,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TodoItem.css">
+        <entry file="file://$PROJECT_DIR$/src/TodoInput.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
-              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+              <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/reset.css">
+        <entry file="file://$PROJECT_DIR$/src/leanCloud.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/App.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/index.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TodoInput.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+            <state relative-caret-position="181">
+              <caret line="55" column="33" selection-start-line="55" selection-start-column="27" selection-end-line="55" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -94,6 +61,13 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>登录</find>
+      <find>null</find>
+      <find>status</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -115,23 +89,31 @@
         <option value="$PROJECT_DIR$/src/TodoItem.css" />
         <option value="$PROJECT_DIR$/src/TodoItem.js" />
         <option value="$PROJECT_DIR$/src/TodoInput.css" />
-        <option value="$PROJECT_DIR$/src/TodoInput.js" />
         <option value="$PROJECT_DIR$/src/localStore.js" />
+        <option value="$PROJECT_DIR$/src/UserDialog.css" />
+        <option value="$PROJECT_DIR$/src/ForgotPasswordForm.js" />
+        <option value="$PROJECT_DIR$/src/SignInOrSignUp.js" />
+        <option value="$PROJECT_DIR$/src/UserDialog.js" />
+        <option value="$PROJECT_DIR$/src/SignInForm.js" />
+        <option value="$PROJECT_DIR$/src/SignUpForm.js" />
+        <option value="$PROJECT_DIR$/src/TodoInput.js" />
+        <option value="$PROJECT_DIR$/src/leanCloud.js" />
         <option value="$PROJECT_DIR$/src/App.js" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="932" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1078" />
     <option name="y" value="60" />
-    <option name="width" value="963" />
-    <option name="height" value="948" />
+    <option name="width" value="817" />
+    <option name="height" value="945" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -148,7 +130,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -184,7 +165,8 @@
       <workItem from="1556614148914" duration="2456000" />
       <workItem from="1556623241313" duration="1600000" />
       <workItem from="1557716371566" duration="3050000" />
-      <workItem from="1557736133003" duration="550000" />
+      <workItem from="1557736133003" duration="8521000" />
+      <workItem from="1557798201052" duration="2266000" />
     </task>
     <task id="LOCAL-00001" summary="添加foo.js  引入foo.js">
       <created>1556611531139</created>
@@ -333,14 +315,168 @@
       <option name="project" value="LOCAL" />
       <updated>1557736538664</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="拷贝 leancloud 初始化代码">
+      <created>1557737419255</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1557737419255</updated>
+    </task>
+    <task id="LOCAL-00023" summary="测试leancloud功能">
+      <created>1557737638048</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1557737638048</updated>
+    </task>
+    <task id="LOCAL-00024" summary="删除测试代码 新建leanCloud.js">
+      <created>1557737914829</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1557737914829</updated>
+    </task>
+    <task id="LOCAL-00025" summary="删除 localStore 功能">
+      <created>1557738057917</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1557738057917</updated>
+    </task>
+    <task id="LOCAL-00026" summary="添加登录/注册对话框-UserDialog">
+      <created>1557738172358</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1557738172358</updated>
+    </task>
+    <task id="LOCAL-00027" summary="添加 UserDialog.css">
+      <created>1557738318727</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1557738318727</updated>
+    </task>
+    <task id="LOCAL-00028" summary="切换登录和注册">
+      <created>1557738381903</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1557738381903</updated>
+    </task>
+    <task id="LOCAL-00029" summary="添加 label，方便用户点击">
+      <created>1557738560915</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1557738560915</updated>
+    </task>
+    <task id="LOCAL-00030" summary="在注册和登录表单间切换">
+      <created>1557738793216</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1557738793216</updated>
+    </task>
+    <task id="LOCAL-00031" summary="将两个 form 的 input 与 state.formData 绑定">
+      <created>1557738970044</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1557738970044</updated>
+    </task>
+    <task id="LOCAL-00032" summary="将 changeUserName 和 changePassword 优化成一个函数 changeFormData">
+      <created>1557739193968</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1557739193968</updated>
+    </task>
+    <task id="LOCAL-00033" summary="点击注册后使用 LeanCloud API 注册">
+      <created>1557739428861</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1557739428861</updated>
+    </task>
+    <task id="LOCAL-00034" summary="注册成功后，记住 user，显示 username">
+      <created>1557739687705</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1557739687705</updated>
+    </task>
+    <task id="LOCAL-00035" summary="消除「不要直接修改 state」的警告&amp;消除「需要 onChange」的警告">
+      <created>1557739835843</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1557739835843</updated>
+    </task>
+    <task id="LOCAL-00036" summary="注册成功关闭dialog &amp; 用户进入页面时，读取上次登录的 user">
+      <created>1557739977695</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1557739977695</updated>
+    </task>
+    <task id="LOCAL-00037" summary="添加登出功能">
+      <created>1557740212984</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1557740212984</updated>
+    </task>
+    <task id="LOCAL-00038" summary="仿照注册，完成登录功能">
+      <created>1557740379827</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1557740379827</updated>
+    </task>
+    <task id="LOCAL-00039" summary="合并 onSignUp 和 onSignIn">
+      <created>1557740454679</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1557740454679</updated>
+    </task>
+    <task id="LOCAL-00040" summary="展示友好的错误信息">
+      <created>1557740561307</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1557740561307</updated>
+    </task>
+    <task id="LOCAL-00041" summary="提供找回密码功能">
+      <created>1557760822653</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1557760822653</updated>
+    </task>
+    <task id="LOCAL-00042" summary="重构：抽离一些组件">
+      <created>1557761919795</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1557761919795</updated>
+    </task>
+    <task id="LOCAL-00043" summary="就算一个组件有方法，也可以改写成一个函数">
+      <created>1557798638622</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1557798638622</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11826000" />
+    <option name="totallyTimeSpent" value="22063000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="746" y="48" width="770" height="758" extended-state="1" />
+    <frame x="738" y="48" width="778" height="756" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="npm" order="0" side_tool="true" />
@@ -360,35 +496,39 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Project" order="3" weight="0.2713797" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="3" weight="0.2693267" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="添加foo.js  引入foo.js" />
-    <MESSAGE value="解决webpack-dev-server的问题：用的太新了，webpack与webpack-dev-server不匹配导致的" />
-    <MESSAGE value="基本骨架完成" />
-    <MESSAGE value="将输入框变成Input组件" />
-    <MESSAGE value="将每个待办封装成todoitem" />
-    <MESSAGE value="添加 normalize.css" />
-    <MESSAGE value="添加 reset.css" />
-    <MESSAGE value="更新样式" />
-    <MESSAGE value="fix value 消除警告" />
-    <MESSAGE value="监听回车事件" />
-    <MESSAGE value="App 传一个函数给 TodoInput" />
-    <MESSAGE value="新增todo" />
-    <MESSAGE value="fix value again" />
-    <MESSAGE value="标记为已完成/未完成" />
-    <MESSAGE value="删除 todo" />
-    <MESSAGE value="实现删除功能" />
-    <MESSAGE value="更新 TodoItem 的样式" />
-    <MESSAGE value="更新todoInput的样式" />
     <MESSAGE value="封装localStorage的操作" />
     <MESSAGE value="localStorage的save和load" />
     <MESSAGE value="将代码移到 componentDidUpdate" />
-    <option name="LAST_COMMIT_MESSAGE" value="将代码移到 componentDidUpdate" />
+    <MESSAGE value="拷贝 leancloud 初始化代码" />
+    <MESSAGE value="测试leancloud功能" />
+    <MESSAGE value="删除测试代码 新建leanCloud.js" />
+    <MESSAGE value="删除 localStore 功能" />
+    <MESSAGE value="添加登录/注册对话框-UserDialog" />
+    <MESSAGE value="添加 UserDialog.css" />
+    <MESSAGE value="切换登录和注册" />
+    <MESSAGE value="添加 label，方便用户点击" />
+    <MESSAGE value="在注册和登录表单间切换" />
+    <MESSAGE value="将两个 form 的 input 与 state.formData 绑定" />
+    <MESSAGE value="将 changeUserName 和 changePassword 优化成一个函数 changeFormData" />
+    <MESSAGE value="点击注册后使用 LeanCloud API 注册" />
+    <MESSAGE value="注册成功后，记住 user，显示 username" />
+    <MESSAGE value="消除「不要直接修改 state」的警告&amp;消除「需要 onChange」的警告" />
+    <MESSAGE value="注册成功关闭dialog &amp; 用户进入页面时，读取上次登录的 user" />
+    <MESSAGE value="添加登出功能" />
+    <MESSAGE value="仿照注册，完成登录功能" />
+    <MESSAGE value="合并 onSignUp 和 onSignIn" />
+    <MESSAGE value="展示友好的错误信息" />
+    <MESSAGE value="提供找回密码功能" />
+    <MESSAGE value="重构：抽离一些组件" />
+    <MESSAGE value="就算一个组件有方法，也可以改写成一个函数" />
+    <option name="LAST_COMMIT_MESSAGE" value="就算一个组件有方法，也可以改写成一个函数" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/foo.js" />
@@ -458,13 +598,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TodoInput.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/localStore.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -472,13 +605,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TodoInput.js">
+    <entry file="file://$PROJECT_DIR$/src/UserDialog.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="38">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -489,10 +619,75 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/TodoInput.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UserDialog.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="78" column="3" selection-start-line="78" selection-start-column="3" selection-end-line="78" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SignInForm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SignUpForm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ForgotPasswordForm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SignInOrSignUp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="51" column="1" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TodoInput.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leanCloud.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="55" column="33" selection-start-line="55" selection-start-column="27" selection-end-line="55" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="70" column="29" selection-start-line="70" selection-start-column="29" selection-end-line="70" selection-end-column="29" />
+        <state relative-caret-position="201">
+          <caret line="108" column="23" selection-start-line="108" selection-start-column="23" selection-end-line="108" selection-end-column="23" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
